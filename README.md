@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Generative Programming<br>🎯 Goals: To master Full Stack Development</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Generative Programming<br>🎯 Goals: To learn more about neural networks</p>
 
 ###
 
